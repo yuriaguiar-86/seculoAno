@@ -16,7 +16,7 @@
         <div class="painel">
             <h2>Instruções</h2>
             <div class="conteudo-painel">
-                <p>Esta aplicação tem como finalidade demonstrar o século em que se encontra o ano determinado por usuário!</p>
+                <p>Esta aplicação tem como finalidade demonstrar o século em que se encontra o ano determinado pelo usuário!</p>
                 <p>Exemplo:</p>
 
                 <ul>
